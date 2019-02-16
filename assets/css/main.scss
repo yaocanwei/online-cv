@@ -6,3 +6,5 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+@import "custom"; //自定义样式
+
